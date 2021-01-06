@@ -1,0 +1,9 @@
+C:\Users\arkadiusz karbowski\source\repos\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\arkadiusz karbowski\source\repos\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\arkadiusz karbowski\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.csprojAssemblyReference.cache
+C:\Users\arkadiusz karbowski\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\arkadiusz karbowski\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Users\arkadiusz karbowski\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\arkadiusz karbowski\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\arkadiusz karbowski\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.pdb
+C:\Users\arkadiusz karbowski\source\repos\PictureBox\PictureBox\obj\Debug\PictureBox.Form1.resources
